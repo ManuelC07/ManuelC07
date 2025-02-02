@@ -20,6 +20,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
 &emsp;
 
   
